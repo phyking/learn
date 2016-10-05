@@ -1,0 +1,14 @@
+1. node.js, npm, gulp, webpack, git
+2. React.js Vue.js Backbone.js lodash.js
+3. MVC MVVM
+4. CSS预处理 SASS LESS Stylus
+
+1. npm安装模块
+2. git 基础命令, gitignore 文件
+3. require 前端文件的依赖管理
+
+
+实验项目
+
+1. HTML + JS + CSS(stylus) 实现一套组件
+2. 使用 React 重新实现
